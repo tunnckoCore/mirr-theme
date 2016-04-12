@@ -47,7 +47,8 @@ body {
     background: url('../img/broken_noise.png');
 }
 #main-content {
-    background: url('../img/header_homepage.png')no-repeat;
+    background: url('../img/header_homepage.png') no-repeat;
+    height: 30px;
     border-top: 2px solid #f89406;
 }
 
